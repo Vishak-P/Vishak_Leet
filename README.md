@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/Vishak-P/Vishak_Leet/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
