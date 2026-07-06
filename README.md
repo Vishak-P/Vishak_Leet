@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1323-maximum-69-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/1323-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
+| [1323-maximum-69-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/1323-maximum-69-number) |
 | [2652-sum-multiples](https://github.com/Vishak-P/Vishak_Leet/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
