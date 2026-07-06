@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0896-monotonic-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/2799-count-complete-subarrays-in-an-array) |
