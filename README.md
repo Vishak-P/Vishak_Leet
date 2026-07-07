@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
+| [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vishak-P/Vishak_Leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
