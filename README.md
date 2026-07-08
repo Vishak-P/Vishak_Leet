@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
 | [1323-maximum-69-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/1323-maximum-69-number) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
