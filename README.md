@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
@@ -117,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
+| [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
