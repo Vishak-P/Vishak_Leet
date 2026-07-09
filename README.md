@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Vishak-P/Vishak_Leet/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0263-ugly-number) |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vishak-P/Vishak_Leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vishak-P/Vishak_Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
