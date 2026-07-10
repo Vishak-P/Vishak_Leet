@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishak-P/Vishak_Leet/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishak-P/Vishak_Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vishak-P/Vishak_Leet/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
