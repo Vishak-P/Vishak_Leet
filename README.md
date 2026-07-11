@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishak-P/Vishak_Leet/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Vishak-P/Vishak_Leet/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Vishak-P/Vishak_Leet/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vishak-P/Vishak_Leet/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Vishak-P/Vishak_Leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vishak-P/Vishak_Leet/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
