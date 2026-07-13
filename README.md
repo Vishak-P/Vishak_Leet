@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vishak-P/Vishak_Leet/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0896-monotonic-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vishak-P/Vishak_Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vishak-P/Vishak_Leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishak-P/Vishak_Leet/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Vishak-P/Vishak_Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vishak-P/Vishak_Leet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/1323-maximum-69-number) |
 | [2652-sum-multiples](https://github.com/Vishak-P/Vishak_Leet/tree/master/2652-sum-multiples) |
 ## Simulation
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
