@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1572-matrix-diagonal-sum](https://github.com/Vishak-P/Vishak_Leet/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vishak-P/Vishak_Leet/tree/master/1672-richest-customer-wealth) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vishak-P/Vishak_Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vishak-P/Vishak_Leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Vishak-P/Vishak_Leet/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vishak-P/Vishak_Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |
