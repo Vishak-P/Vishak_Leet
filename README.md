@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vishak-P/Vishak_Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Vishak-P/Vishak_Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vishak-P/Vishak_Leet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0766-toeplitz-matrix](https://github.com/Vishak-P/Vishak_Leet/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/0896-monotonic-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishak-P/Vishak_Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishak-P/Vishak_Leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Vishak-P/Vishak_Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishak-P/Vishak_Leet/tree/master/0992-subarrays-with-k-different-integers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vishak-P/Vishak_Leet/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vishak-P/Vishak_Leet/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vishak-P/Vishak_Leet/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
